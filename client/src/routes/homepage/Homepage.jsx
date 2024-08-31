@@ -10,11 +10,11 @@ const Homepage = () => {
     <div className="homepage">
       <img src="/orbital.png" alt="" className="orbital" />
       <div className="left">
-        <h1>LAMA AI</h1>
+        <h1>Quiktalk AI</h1>
         <h2>Supercharge your creativity and productivity</h2>
         <h3>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat sint
-          dolorem doloribus, architecto dolor.
+          QuikTalk" appears to be a project you're working on, possibly related to chatbots or a communication platform,
+          given its name and the fact that you have a project located in a directory named "QuikTalk.
         </h3>
         <Link to="/dashboard">Get Started</Link>
       </div>
