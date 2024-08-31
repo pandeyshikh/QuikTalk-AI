@@ -6,23 +6,7 @@ Real-time Chat: Engage in real-time conversations with the AI.
 Natural Language Processing: Leverages advanced NLP models to understand and generate responses.
 User-Friendly Interface: A clean and intuitive frontend design.
 Customizable Responses: Easily modify the AI’s response behavior.
-Project structure
-QuikTalk-AI/
-│
-├── backend/
-│   ├── app.py                 # Main backend application file
-│   ├── model.py               # AI model handling
-│   ├── requirements.txt       # Python dependencies
-│   └── ...                    # Other backend-related files
-│
-├── frontend/
-│   ├── public/                # Public assets
-│   ├── src/                   # React components
-│   ├── package.json           # Frontend dependencies
-│   └── ...                    # Other frontend-related files
-│
-├── README.md                  # Project documentation
-└── .gitignore                 # Git ignore file
+
 Getting Started
 Prerequisites
 Ensure you have the following installed:
